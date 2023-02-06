@@ -1,3 +1,3 @@
-# MIX-QSM
+# TTC-QSM
 
 # will be updated soon.
