@@ -19,7 +19,7 @@ run correction.m
 
 <sup> [1] Lai et al., Learned Proximal Networks for Quantitative Susceptibility Mapping, MICCAI, 2020. [https://github.com/Sulam-Group/LPCNN]</sub>
 
-<sup> [2] Langkammer et al., Quantitative susceptibility mapping: report from the 2016 reconstruction challenge, MRM, 2018. </sub>
+<sup> [2] Langkammer et al., Quantitative susceptibility mapping: report from the 2016 reconstruction challenge, Magnetic Resonance in Medicine, 2018. </sub>
 
 #### Any query, please raise an issue or contact :
 
