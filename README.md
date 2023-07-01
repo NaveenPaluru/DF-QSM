@@ -1,7 +1,7 @@
 # Quantitative Susceptibility Mapping   
 
 <p align="justify" markdown="1">
-Naveen Paluru, Raji Susan Mathew, and Phaneendra K. Yalavarthy, "TTC-QSM : Model Based Test Time Correction for Improved Quantitative Susceptibility Susceptibility Mapping", [Under Review at IEEE Transactions on Medical Imaging, Feb, 2023]. 
+Naveen Paluru, Raji Susan Mathew, and Phaneendra K. Yalavarthy, "DF-QSM : A Two-Step Method Based on Data Fidelity for Improved Quantitative Susceptibility Mapping of the Brain", [Under Preparation for NMR in Biomedicine, July, 2023]. 
 </p>
 
 #### usage
