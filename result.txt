@@ -1,0 +1,27 @@
+iter:1   err:16.5780   grad norm:1.5876
+iter:2   err:14.4195   grad norm:1.2723
+iter:3   err:12.9968   grad norm:1.0624
+iter:4   err:11.9801   grad norm:0.9172
+iter:5   err:11.2058   grad norm:0.8121
+iter:6   err:10.5878   grad norm:0.7329
+
+Metrics Before Correction : 
+SSIM
+PSNR
+NMSE
+HFEN
+    0.9289
+   32.7793
+   58.1134
+   53.3143
+
+Metrics After Correction  : 
+SSIM
+PSNR
+NMSE
+HFEN
+    0.9350
+   32.8208
+   53.7386
+   49.9755
+
