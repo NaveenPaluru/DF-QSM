@@ -1,7 +1,7 @@
 # Quantitative Susceptibility Mapping   
 
 <p align="justify" markdown="1">
-Naveen Paluru, Raji Susan Mathew, and Phaneendra K. Yalavarthy, "DF-QSM : Data Fidelity based Hybrid Approach for Improved Quantitative Susceptibility Mapping of the Brain", [Under Review, IEEE Journal of Biomedical and Health Informatics, Oct, 2023]. 
+Naveen Paluru, Raji Susan Mathew, and Phaneendra K. Yalavarthy, "DF-QSM : Data Fidelity based Hybrid Approach for Improved Quantitative Susceptibility Mapping of the Brain", [Accepted (in press), NMR in Biomedicine, Mar, 2024]. 
 </p>
 
 #### usage
